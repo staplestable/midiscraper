@@ -20,7 +20,7 @@ import MIDIScraper as ms
 ```
 And then call the constructor with the desired arguments, e.g:
 ```
-ms.MIDIScraper(url="www.jsbach.net/midi/midi_goldbergvariations.html", directory="midi-folder", limit=3)
+ms.MIDIScraper(url="http://www.jsbach.net/midi/midi_goldbergvariations.html", directory="midi-folder", limit=3)
 ```
 The only necessary argument to make the call is the `url` as the `directory` and `limit` parameters have default values of "dataset" and "5" respectively.
 
