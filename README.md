@@ -16,7 +16,7 @@ There's two ways of using this script:
 
 If you want to go that way you simply need to import the MIDIScraper module in your script:
 ```
-import MIDIScraper as ms
+import midiscraper as ms
 ```
 And then call the constructor with the desired arguments, e.g:
 ```
